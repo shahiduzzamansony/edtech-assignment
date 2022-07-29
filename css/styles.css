@@ -8,7 +8,10 @@ bottom: 170px;
     padding-top: 150px;
 }
 .img-height{
-height: 90px;
+height: 80px;
+}
+.workman{
+    background-color:#F4FAFD;
 }
 .enroll-color{
     color: #289BDE;
@@ -18,7 +21,8 @@ height: 90px;
 }
 .text-color{
     color: white;
-} 
+}
+
 @media only screen and (max-width: 576px) {
     .small{
         display:flex;
