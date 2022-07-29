@@ -55,4 +55,9 @@ height: 80px;
 .card-margin{
     padding-top: 10px;
 }
+.small{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
 }
